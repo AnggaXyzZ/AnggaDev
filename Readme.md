@@ -1,6 +1,6 @@
 ### <h1 align="center">Welcome To</h1>
 <p align="center">
-    <img src="https://telegra.ph/file/a9427f14542cab012612c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/a9427f14542cab012612c.jpg" width="40%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">AnggaXyzZ</h1>
 
