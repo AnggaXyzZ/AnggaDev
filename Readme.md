@@ -8,19 +8,19 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/AnggaXyzZ"><img src="https://github-readme-stats.vercel.app/api?username=AnggaDev&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/AnggaXyzZ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaDev&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/AnggaXyzZ"><img src="https://github-readme-stats.vercel.app/api?username=AnggaXyzZ&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/AnggaXyzZ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnggaXyzZ&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaDev&repo=Angga-md&theme=vision-friendly-dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaDev&repo=Angga&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaDev&repo=AnggaDev&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaXyzZ&repo=Angga-md&theme=vision-friendly-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaXyzZ&repo=Angga&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnggaXyzZ&repo=AnggaXyzZ&theme=nightowl)
 
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AnggaDev)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AnggaXyzZ)
 
 </details>
 <audio autoplay="true" src="https://c.top4top.io/m_2169adw7n0.mp3"></audio>
