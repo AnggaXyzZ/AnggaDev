@@ -5,6 +5,13 @@
 <p align="center">
 <a href="#"><img title="https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest" src="https://img.shields.io/badge/AnggaXyzZ-green?colorA=%50ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
+<p align="center">
+<a href="https://github.com/AnggaXyzZ/followers"><img title="Followers" src="https://img.shields.io/github/followers/AnggaXyzZ?color=red&style=flat-square"></a>
+<a href="https://github.com/AnggaXyzZ/AnggaMdV3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AnggaXyzZ/AnggaMdV3?color=blue&style=flat-square"></a>
+<a href="https://github.com/AnggaXyzZ/AnggaMdV3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AnggaXyzZ/AnggaMdV3?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/AnggaXyzZ/AnggaMdV3"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnggaXyzZ%2FAnggaMdV3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/AnggaXyzZ/AnggaMdV3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
 ### Connect With Me ☎️
 <p align="center"> 
